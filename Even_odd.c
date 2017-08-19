@@ -10,5 +10,7 @@ printf("The number is even");
 else{
 printf("the number is odd");
 }
+
+printf("HEllo World");
 return 0;
 }
